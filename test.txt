@@ -1,3 +1,9 @@
 ửaognrep;,lvs'jg;ẻfhgfhgfíhdihasd
 tuấn 
 k;fm;se
+<div class='container">
+  <div class='row'>
+	<div class='col-lg-6>tuan</div>
+  </div>
+</div>
+		
