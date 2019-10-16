@@ -1,6 +1,8 @@
 <div class='container">
   <div class='row'>
-	<div class='col-lg-6>tuan</div>
+	<div class='col-lg-6'>tuan</div>
+>tuan21</div>
   </div>
 </div>
+
 		
