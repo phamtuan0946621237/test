@@ -1,8 +1,10 @@
 <div class='container">
   <div class='row'>
 	<div class='col-lg-6'>tuan</div>
->tuan21</div>
+>tuan21</div>/Users/admin/desktop/git/test
   </div>
-</div>
+</div>git add
+gunpimsgm[dmb'dfm'dplng;fm'ưl,fmw
+em
 
 		
